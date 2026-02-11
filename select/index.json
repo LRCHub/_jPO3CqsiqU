@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "EAT",
+  "base_artist": "なとり",
+  "createdAt": "2026-02-11T15:58:08.775655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eat Em Up L Chill",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Eat_Em_Up_L_Chill_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girl I Want 2 Eat U",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/02_Girl_I_Want_2_Eat_U_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girl I Want 2 Eat U",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/03_Girl_I_Want_2_Eat_U_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eat To the Beat",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/04_Eat_To_the_Beat_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eat My Bear",
+      "artist": "Yuksek",
+      "has_synced": false,
+      "path": "select/05_Eat_My_Bear_Yuksek.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gotta Eat",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/06_Gotta_Eat_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gotta Eat",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/07_Gotta_Eat_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eat Your Heart",
+      "artist": "Micachu & The Shapes",
+      "has_synced": true,
+      "path": "select/08_Eat_Your_Heart_Micachu_&_The_Shapes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eat Me Alive",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/09_Eat_Me_Alive_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eat Your Heart Out",
+      "artist": "Paul Hardcastle",
+      "has_synced": false,
+      "path": "select/10_Eat_Your_Heart_Out_Paul_Hardcastle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Did You Eat",
+      "artist": "Alcoholic Faith Mission",
+      "has_synced": false,
+      "path": "select/11_Did_You_Eat_Alcoholic_Faith_Mission.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Babay (Eat a Critter, Feel Its Wrath)",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/12_Babay_(Eat_a_Critter,_Feel_Its_Wrath)_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eat Your Heart Up",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/13_Eat_Your_Heart_Up_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eat Shiitake Mushrooms",
+      "artist": "Let's Eat Grandma",
+      "has_synced": false,
+      "path": "select/14_Eat_Shiitake_Mushrooms_Let's_Eat_Grandma.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eat The Menu",
+      "artist": "The Sugarcubes",
+      "has_synced": false,
+      "path": "select/15_Eat_The_Menu_The_Sugarcubes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EAT",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_EAT_なとり.txt"
+    }
+  ]
+}
